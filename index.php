@@ -14,5 +14,6 @@ $arreglo=array();// iniciamos continualoprueba
 $arreglo["edad"] = 12;
 $arreglo["nombres"] = "bethoben";
 $arreglo['DNI'] = 981287128;
+$arreglo['RUC'] = 72934729718312;
 ?>
 
