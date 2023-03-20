@@ -7,13 +7,14 @@ $multi=$sumas*2;
 $divicion=$multi/2;
 echo "La fecha y hora actual es: " . date("Y-m-d H:i:s");
 echo "cambios de estado en rama master ";
-
+echo "es lunes de chamba";
 $variable="peimer cambio a master";
 $variable=$variable."agredado ";
 echo $variable;
 $arreglo=array();// iniciamos continualoprueba 
 $arreglo["edad"] = 12;
 $arreglo["nombres"] = "bethoben";
-
+$arreglo['DNI'] = 981287128;
+$arreglo['RUC'] = 72934729718312;
 ?>
 
