@@ -5,7 +5,7 @@ $variables3 = 15.4;
 $sumas=$variables2+$variables3;
 echo "La fecha y hora actual es: " . date("Y-m-d H:i:s");
 echo "cambios de estado en rama master ";
-
+echo "es lunes de chamba";
 $variable="peimer cambio a master";
 $variable=$variable."agredado ";
 echo $variable;
