@@ -5,5 +5,7 @@ echo "cambios de estado en rama master ";
 $variable="peimer cambio a master";
 $variable=$variable."agredado ";
 echo $variable;
+$arreglo=array();// iniciamos continualoprueba 
+
 ?>
 
