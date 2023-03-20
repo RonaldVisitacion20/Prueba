@@ -10,6 +10,7 @@ $variable=$variable."agredado ";
 echo $variable;
 $arreglo=array();// iniciamos continualoprueba 
 $arreglo["edad"] = 12;
+$arreglo["nombres"] = "bethoben";
 
 ?>
 
