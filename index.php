@@ -6,6 +6,7 @@ $variable="peimer cambio a master";
 $variable=$variable."agredado ";
 echo $variable;
 $arreglo=array();// iniciamos continualoprueba 
+$arreglo["edad"] = 12;
 
 ?>
 
