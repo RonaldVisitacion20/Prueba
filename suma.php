@@ -25,3 +25,4 @@ print_r($array);
 // Agregar un elemento (note que la nueva clave es 5, en lugar de 0).
 $array[] = 6;
 print_r($array);
+
