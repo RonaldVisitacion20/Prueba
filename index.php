@@ -21,6 +21,7 @@ $arreglo['RUC'] = 72934729718312;
 $arreglo["apellidos"] = "marcosLEO";
 $arreglo["razonsocial"] = "libreria";
 
+$arreglo["estado"] = 1;
 
 ?>
 
