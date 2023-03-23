@@ -44,3 +44,4 @@ for ($i = 0; $i < $count; $i++) {
     echo "Mal: {$array['$i']}\n";
     echo "Bien: {$array[$i]}\n";
 }
+echo "esto es ".$count;
