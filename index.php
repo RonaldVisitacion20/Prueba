@@ -18,6 +18,6 @@ $arreglo["nombres"] = "bethoben";
 $arreglo['DNI'] = 981287128;
 $arreglo['RUC'] = 72934729718312;
 
-
+$arreglo["apellidos"] = "marcosLEO";
 ?>
 
