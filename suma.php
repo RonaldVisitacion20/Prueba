@@ -29,11 +29,39 @@ print_r($array);
 $array[] = 6;
 print_r($array);
 
+// inclucion de añadidura de codigo espageti  en la base de datos
+    //Algoritmo de Euclides
+    $a=162078;
+    $b=960;
+    $temporal=0;
+    //1- Hacer que el valor a sea el mayor 
+	if($a<$b)
+	{	
+		$temporal=$a;
+		$a=$b;
+		$b=$temporal;
+	}
+	//2- Si el resto es igual a 0 termina el algoritmo 
+	while($b!=0)
+	{
+		//3-Calcular el resto de dividir a y b 
+		$resto=$a%$b;
+		//4-Asignar el valor más pequeño a a 
+		$a=$b;
+		//5-Asignar el resto a b 
+		$b=$resto;
+		echo "$a <br/>";
+	}
+	echo "Resultado Final: $a";
+
+// IN ALGORITMODE ECULIDES PARA PPHP 
+
+
 // Re-indexar:
 $array = array_values($array);
 $array[] = 7;
 print_r($array);
-
+$especialmete =  
 error_reporting(E_ALL);
 ini_set('display_errors', true);
 ini_set('html_errors', false);
