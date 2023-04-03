@@ -76,3 +76,5 @@ for ($i = 0; $i < $count; $i++) {
     echo "Bien: {$array[$i]}\n";
 }
 echo "esto es ".$count;
+$incluyo1 = "qui inlcuyo alianza lima en suma tambien apra qeu se vea bonito ";
+$incluyo2 = "sabemo que alizna ganar el partido del amrtes ";
