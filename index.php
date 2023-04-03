@@ -35,6 +35,6 @@ echo "Él tomó algo de jugo hecho de ${jugo}s.";
 
 $variables_fa = "indice de inflaicon";
 
-
+$alianza_lima   =   "por la camiseta de hoy en dia "; // 02/04/2023
 ?>
 
